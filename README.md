@@ -5,7 +5,7 @@ Before running this project, ensure you have the following installed:
 <br>
 Java JDK 8 or later <br>
 MySQL or any relational database (for persistence) <br>
-Hibernate (ORM framework) <br>
+Hibernate (ORM framework) <br><br>
 <b>Project Structure:</b><br>
 The project consists of the following key components:
 <br>
