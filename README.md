@@ -19,8 +19,8 @@ Relationship: Many employees belong to one department.<br>
 Hibernate configuration is done via hibernate.cfg.xml.<br>
 Annotation-based mapping is used for defining relationships.<br>
 
-<b>Mapping: Many-to-One</b><br>
-Relationship Description <br>
+<b>Mapping: Many-to-One</b><br><br>
+<b>Relationship Description</b> <br>
 Employee to Department: <br>
 Many Employee records map to a single Department. <br>
 This is a bidirectional relationship. <br>
